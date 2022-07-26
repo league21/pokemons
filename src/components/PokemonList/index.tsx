@@ -1,7 +1,6 @@
 import { Modal } from "@mui/material";
 import React, { useEffect, useState } from "react";
 import { Detail } from "../../App";
-import "../pokemon.css";
 import styles from './style.module.scss';
 
 interface PokemonListProps {
